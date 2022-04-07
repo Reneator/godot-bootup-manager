@@ -1,7 +1,7 @@
 # godot-bootup-manager
 A BootupManager Autoload script which helps you organize bootup order/priorities by having 2 core functions:
 
-The BootupManager needs to be added as Autoload-Script to your project by going to: Project -> Projectsettings -> Autoload Tab -> open file
+The BootupManager (Bootup_Manager.gd) needs to be added as Autoload-Script to your project by going to: Project -> Projectsettings -> Autoload Tab -> open file
 The Script is self-containing and has all classes it needs inside itself.
 
 This concept has proven very helpful to me, so im sharing it here to see if others also find it useful
